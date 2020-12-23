@@ -1,0 +1,37 @@
+ body {
+   background-color: #fcf8ec;
+ }
+
+ hr {
+   background-color: #fcf8ec;
+   width: 45%;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #532e1c;
+   border-width: 4px;
+ }
+
+ h1 {
+   color: #aa8976;
+   font-family: courier;
+   text-align: center;
+
+ }
+
+ h3 {
+   color: #aa8976;
+   font-family: courier;
+   text-align: center;
+ }
+
+ td {
+   color: #aa8976;
+   font-family: courier;
+   text-align: center;
+ }
+
+ tr {
+   color: #aa8976;
+   font-family: courier;
+   text-align: center;
+ }
